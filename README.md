@@ -9,7 +9,7 @@ This repository contains all the machine learning tasks completed during my inte
 ### 1. Disease Prediction
 Predict diseases using machine learning classification algorithms.
 
-**Status:** 🚧 In Progress
+**Status:** ✅ Heart Disease Prediction completed
 
 ---
 

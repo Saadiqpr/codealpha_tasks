@@ -13,17 +13,10 @@ Predict diseases using machine learning classification algorithms.
 
 ---
 
-### 2. Credit Scoring Model
-Predict customer creditworthiness using financial information.
+### 2. Speech Emotion Recognition
+Recognize speech using deep learning (CNN).
 
-**Status:** ⏳ Not Started
-
----
-
-### 3. Handwritten Character Recognition
-Recognize handwritten characters using deep learning (CNN).
-
-**Status:** ⏳ Not Started
+**Status:** Completed
 
 ---
 
